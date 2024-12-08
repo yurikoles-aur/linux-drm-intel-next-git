@@ -1,4 +1,5 @@
-linux-drm-intel-next-git
-src
-pkg
-*.pkg*
+*
+!config
+!PKGBUILD
+!.SRCINFO
+!.gitignore
